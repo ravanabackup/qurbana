@@ -3,31 +3,18 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://ravanabackup.github.io/artistrss/cache.json
+cacheUrl: https://ravanabackup.github.io/qurbana/cache.json
 sources:
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCjYCNtvEZzfcj_69by4umCA  # Vineeth
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwY3V0If3Rp-Kei2YgIDHBA  # Sithara Krishnakumar
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzEergq3aH6Sp8chBoRSeJQ  # Najim Arshad
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC4PHPycgfp4P2iydf5XXD3A  # Sujatha Mohan
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCtnqdzPLF0cSylxXGFMRqbA  # Gopi Sundar
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoEkddaP-0x5YEZ-IrDq96A  # Bijibal
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLxGPvdjHVBxePDOsVLGsIg  # Shaan Rahman
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC3GZI2_oy_HL-7lgyuzjebw  # Rex Vijayan
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzJDshjhEyMG4Iup0p0CTVg  # Jassie Gift
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCmDZbFoZTmR73ezPiyctJCA  # Unni Menon
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCIPZv7FT9SQ-XFIV47yz9yg  # Shahabaz Aman
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2AhxA-AFRG3BaMvldYmO5Q  # Madhu Balakrishnan
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCCKSa0JdMHZKLh6laZmyELg  # M. Jayachandran
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCSmn_5jddaC_RVTn6VRBLlA  # Biju Narayanan
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCGuHGDpFMMqxC4GIJPDozXA  # Manjari
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCzpmF_8698JYBqh96PPCTfw  # Sushin Shyam
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCLZpxXOlkwiHzzHdfdoj8ng  # Deepak Dev
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCFs98MazJJe2MxOKGqP_JZQ  # G. Venugopal
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCwpn7R8dycvBU8Jin_BtRrQ  # Rimi Tomy
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC5L_hc-vxyZXMh1tWhV3y9Q  # Vidyasagar
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCWUjYIas3aSW65lQOpGiRrg  # K. J. Yesudas
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCoBmFglJHG6gzSZU_59HGrQ  # Kester
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCnIVrxlRAIFBg7Z0O1v4SfQ  # Elizabeth Raju
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCNGpKg02KLGdTii0Ql6vAOA  # Maria Kolady
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCZuVwT0AkcLHxVEQ61VMviA  # Sreya Anna Joseph
-  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCg-UMYja9NjC8OUZLvTBvow  # K.G. Markose
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UC1iZQ2hNAnKGotXWjnuJ_zg
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCJERA8HUd3hWX8xFcmmmuQA
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCa4jlL-DKWddwL0gPhWKt9Q
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UC8ebJ_anG4byfhC_2hT7eKw
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UC4iQ625dcp65LGKu0vJQmGw
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCOD2OJpKQzjA9_OJfFUOf7g
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCdDfgqyDOkFegrDaRIbS0TQ
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UC5h3vVv6L6qys6o87f1JiiQ
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCNwmI-2bahEEheuQlpILghA
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCH-nYYbhoPUivtRgkMPpm6Q
+  - href: https:www.youtube.com/feeds/videos.xml?channel_id=UCrHeKh0LeX-ROQLxAb49kZg
+
+
